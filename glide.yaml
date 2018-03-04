@@ -1,0 +1,5 @@
+package: github.com/ki38sato/ssclean
+import:
+  - package: github.com/urfave/cli
+  - package: github.com/aws/aws-sdk-go
+    version: ^v1.10.15
